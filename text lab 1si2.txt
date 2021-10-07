@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head><title>lab nr2</title>
+<style>
+em {
+  color: black;
+  font-family: courier;
+  font-size: 160%;
+}
+
+table {
+  background: url("https://wallpaper.dog/large/5528176.jpg");
+}
+</style>
+</head>
+<body bgcolor="yellow">
+<header><h1 style="color: red">Alice in tara minunilor.</h1></header>
+<table width="100%" border="1">
+<tr>
+<td>
+<img src="https://i.mainstreetartisans.com/upload/iskusstvo-i-razvlecheniya/10/alisa-v-strane-chudes-kratkoe-soderzhanie-knigi-po-glavam-personazhi-alisi-v-strane-chudes.jpg" align="right" border="2"><br/>
+<em><h1><li>Primul capitol</h1><br/>
+Fata Alice, personajul principal al acestei cărți, își începe călătoria prin Țara Minunilor în mod neașteptat pentru ea însăși: razomlevshaya de la leneș și căldură, ea găsește brusc un iepure, care nu este surprinzător în sine. Dar acest iepure nu numai că sa dovedit a fi un vorbitor (pe care nici Alice nu a fost deloc surprins în acel moment), avea un ceas de buzunar și tot ce era în grabă undeva. Așa începe lucrarea "Alice in Țara Minunilor". Rezumatul cărții, desigur, nu descrie în detaliu toate evenimentele. <br/>Al naibii de nerăbdare, Alice se repezi în gaura din spatele lui și se trezi brusc într-un tunel vertical. Potrivit lui repede (sau deloc, deoarece fata chiar a reusit sa observe ce era pe rafturile peretilor, si a luat un borcan cu inscriptia "Marmelada de portocala", care sa dovedit a fi, din pacate, gol). Dar în această lume, totul se încheie, inclusiv căderea lui Alice, și destul de bine.</em>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://i.mainstreetartisans.com/upload/iskusstvo-i-razvlecheniya/10/alisa-v-strane-chudes-kratkoe-soderzhanie-knigi-po-glavam-personazhi-alisi-v-strane-chudes-2.jpg" border="2">
+
+   <iframe height="350" width="600"
+      src="https://www.youtube.com/embed/hotvWH1CUF4">
+   </iframe>
+
+<em><h1><li>Al doilea și al treilea capitol</h1><br/>
+Totul aici a fost foarte imprevizibil și ciudat. Chiar și poeziile învățate de fată de mult timp, iar masa de înmulțire a ieșit din goana ei. Alice însă nu recunoștea, chiar a decis că nu era deloc ea, ci o altă fată. Din ciudățenia și veșnicia nesfârșită, personajul principal plângea, plângând peste lacul în care aproape că sa înecat.</em>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://i.mainstreetartisans.com/upload/iskusstvo-i-razvlecheniya/10/alisa-v-strane-chudes-kratkoe-soderzhanie-knigi-po-glavam-personazhi-alisi-v-strane-chudes-3.jpg" align="right" border="2"><br/>
+<em><h1><li>Al patrulea capitol</h1><br/>
+Iepurele, care a apărut din nou, a trimis-o, ca o servitoare, pentru mănuși și un ventilator în casa lui, pe când era pe punctul de a merge la ducesă. Alice nu sa certat, a intrat în casa în care a trăit Rabitul, dar a băut din curiozitate și au fost lichide din sticlă. Încă o dată, fata a crescut la proporții uriașe, astfel încât aproape că a suflat casa. Din fericire, ea a fost aruncată în pietricele, transformată în patties, iar fata a devenit din nou mic și apoi a fugit. Fantezie bogată de la autorul basmei "Alice in Țara Minunilor"! Rezumatul lucrării, între timp, descrie doar evenimentele principale.</em>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://i.mainstreetartisans.com/upload/iskusstvo-i-razvlecheniya/10/alisa-v-strane-chudes-kratkoe-soderzhanie-knigi-po-glavam-personazhi-alisi-v-strane-chudes-5.jpg" width="650" height="500"  border="2">
+<h3>Alte surse:</h3>
+<a href="https://rum.mainstreetartisans.com/4104421-quotalice-in-wonderlandquot-a-summary-of-the-book-by-chapter-characters-quotalice-in-wonderlandquot"> SURSA 1 </a>
+<a href="https://www.youtube.com/watch?v=hotvWH1CUF4"> SURSA 2 </a>
+<a href="https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland"> SURSA 3 </a>
+
+<em><h1><li>Capitolul șase</h1><br/>
+Aventurile lui Alice în Țara Minunilor continuă. A văzut căpitanul, care stătea pe prag, ca un pește. El îi dăruia unui alt, asemănător cu un broască, o invitație la o petrecere în crochet pentru Regină. De multă vreme, Alice a aflat de la Lackey-Zhaba dacă i sa permis să intre, dar nu a înțeles nimic din răspunsurile acestui slujitor (nu lipsește, apropo, de o logică ciudată).
+
+În cele din urmă, fata a decis și a intrat. Așa că merge "Alice in Țara Minunilor", o carte care nu își pierde popularitatea chiar și astăzi.
+
+Principalul personaj se găsea în bucătărie, în care nu exista suflare din ardei și fum. Bucătarul gătit aici, și nu departe, era ducesa, care avea în brațe un copil care țipa. Gatiti intre vremurile aruncate vasele in ambele. Big Cat a privit cu un rânjet pentru toate astea. Ducesa ia explicat pe scurt lui Alice că zâmbește la Cat pentru că era Cheshire și a spus că toate pisicile ar putea zâmbi. Apoi, ea a început să umple o cronometru aparent familiar la un prunc, dar din anumite motive, Alice sa înspăimântat de ea. Ducesa a aruncat în final pachetul cu copilul la fată. Fata a scos copilul agitat și a văzut brusc cu uimire că era un porc, dar nu era deloc un copil!</em>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://i.mainstreetartisans.com/upload/iskusstvo-i-razvlecheniya/10/alisa-v-strane-chudes-kratkoe-soderzhanie-knigi-po-glavam-personazhi-alisi-v-strane-chudes-6.jpg" align="right" border="2"><br/>
+<em><h1><li>Capitolele de la al optulea la al doisprezecelea</h1><br/>
+Aici erau soți, Chervonny Korolev și Regele, înconjurați de curteni - inimi mici și diamante. Și, deși arătau rigoare altora, Alice nu se temeau. Ea a motivat că acestea erau doar cărți.
+
+În hol, fata a văzut aproape toți prietenii din Țara Minunilor. A judecat în acest moment Chervonnogo Jack, care a furat torturile reginei. Dintr-o dată, ei au apelat la personajul principal, care a crescut la dimensiunea normală. Pe logica ei sonoră, toate încercările de intimidare a fetei făcute de soți s-au rupt.</em>
+</td>
+</tr>
+</table>
+</body>
+</html>
