@@ -1,0 +1,79 @@
+@media (min-width: 421px){ 
+    #info_user{
+        z-index: 1;
+        position: absolute;
+        right: 0;
+        background-color: whitesmoke;
+        border-radius: 5px;
+        opacity:0.88;
+        max-width: 230px;
+        width: 210px;
+        display: none;
+    }
+    
+    .info_container{
+        margin: 10px;
+        color: darkred;
+        font-weight: bold;
+    } 
+    
+    .info-text span{
+        color: darkblue;
+    }
+    
+    .info_form input[type=submit]{
+        padding: 8px;
+        width: 100px; 
+        background-color:darkred;
+        margin: 0 auto;
+        display: block;
+        color: whitesmoke;
+        margin-top: 3px;
+    }
+    
+    .info_form input[type=submit]:hover{
+        background-color: brown;
+    }
+}
+
+
+@media (max-width: 420px){ 
+    #info_user{
+        z-index: 1;
+        position: absolute;
+        right: 0;
+        background-color: whitesmoke;
+        border-radius: 5px;
+        opacity:0.88;
+        max-width: 230px;
+        width: 100px;
+        display: none;
+        margin-right: 90px;
+    }
+    
+    .info_container{
+        margin: 4px;
+        color: darkred;
+        font-weight: bold;
+        font-size: 8px;
+    } 
+    
+    .info-text span{
+        color: darkblue;
+    }
+    
+    .info_form input[type=submit]{
+        padding: 2px;
+        width: 60px; 
+        background-color:darkred;
+        margin: 0 auto;
+        display: block;
+        color: whitesmoke;
+        margin-top: 1px;
+        font-size: 10px;
+    }
+    
+    .info_form input[type=submit]:hover{
+        background-color: brown;
+    }
+}

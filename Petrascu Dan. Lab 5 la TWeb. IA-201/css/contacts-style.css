@@ -1,0 +1,228 @@
+@media (min-width: 421px){
+    .contactsDiv{
+        padding-left: 1%;
+        padding-right: 1%;
+        padding-top: 0.1%;
+        padding-bottom: 0.1%;
+        border-radius: 30px;
+        margin: 0px auto;
+        width: 750px;
+        font-size: 20px;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .cont_container{
+        margin: 0 auto;
+        width: 720px; 
+    }
+
+    .ContTitle{
+        margin-top: 20px;
+        color:firebrick;
+        font-size: 50px;
+    }
+    
+    .contacts{
+        position: relative;
+    }
+    
+    .form_contacts input[type=text] {
+        padding: 8px;
+        border: 2px solid darkblue;
+        width: 700px;
+    }
+    
+    .form_contacts input[type=submit]{
+        padding: 8px;
+        width: 200px; 
+        background-color:darkred;
+        margin-left: 250px;
+        margin-bottom: 10px;
+        color: whitesmoke;
+        margin-top: 10px;
+    }
+    
+    .form_contacts textarea[type=text]{
+        padding: 8px;
+        border: 2px solid darkblue;
+        width: 700px;
+        height: 150px;
+        resize: none;
+    }
+    
+    .form_contacts input[type=submit]:hover{
+        background-color: brown;
+    }
+     
+    .form_contacts select{
+        padding: 8px;
+        border: 2px solid darkblue;
+        width: 200px;
+    }
+    
+    .pCtext{
+        line-height: 0.0;
+        margin-top: 40px;
+    }
+    
+    .msg_success{
+        color: green;
+        line-height: 0.0;
+        margin-left: 215px;
+        font-weight: bold;
+        display: none;
+    }
+    
+    .msg_fail{
+        color: darkred;
+        line-height: 0.0;
+        margin-left: 215px;
+        font-weight: bold;
+        display: none;
+    } 
+    
+    .error{
+        color: darkred;
+        
+    } 
+    
+    input[class="error"]{
+        border: 2px solid darkred !important;
+    } 
+    
+    .msg, .msg-name, .msg-email, .msg-tema{
+        color: darkred;
+        font-size: 20px;
+        line-height: 0.0;
+        white-space: pre-line;
+        display: none;
+        margin-top: -5px;
+    }
+    
+    .error-1{
+        color: darkred;
+        white-space: pre-line;
+        border: 2px solid darkred !important;
+    } 
+}
+
+
+@media (max-width: 420px){
+    .contactsDiv{
+        padding-left: 1%;
+        padding-right: 1%;
+        padding-top: 0.1%;
+        padding-bottom: 0.1%;
+        border-radius: 15px;
+        margin: 0px auto;
+        margin-right: 5px; 
+        margin-left: 5px;
+        font-size: 20px;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .cont_container{
+        margin: 0 auto;
+        width: 320px; 
+    }
+
+    .ContTitle{
+        margin-top: 20px;
+        color:firebrick;
+        font-size: 40px;
+    }
+    
+    .contacts{
+        position: relative;
+    }
+    
+    .form_contacts input[type=text] {
+        padding: 4px;
+        border: 2px solid darkblue;
+        width: 300px;
+    }
+    
+    .form_contacts input[type=submit]{
+        padding: 4px;
+        width: 150px; 
+        background-color:darkred;
+        margin: auto;
+        display: block;
+        color: whitesmoke;
+        margin-bottom: 10px;
+    }
+    
+    .form_contacts textarea[type=text]{
+        padding: 4px;
+        border: 2px solid darkblue;
+        width: 305px;
+        height: 150px;
+        resize: none;
+    }
+    
+    .form_contacts input[type=submit]:hover{
+        background-color: brown;
+    }
+     
+    .form_contacts select{
+        padding: 4px;
+        border: 2px solid darkblue;
+        width: 170px;
+    }
+    
+    .pCtext{
+        line-height: 0.0;
+        margin-top: 30px;
+    }
+    
+    .msg_success{
+        color: green;
+        line-height: 0.0;
+        font-weight: bold;
+        text-align: center;
+        font-size: 12px;
+    }
+    
+    .msg_fail{
+        color: darkred;
+        line-height: 0.0;
+        font-weight: bold;
+        text-align: center;
+        font-size: 12px;
+    } 
+    
+     .msg{
+        color: darkred;
+        line-height: 0.0;
+        font-size: 14px;
+    }
+    
+    .error{
+        color: darkred;
+        display: block;
+        white-space: pre-line;
+        font-size: 18px;
+        
+    } 
+    
+    input[class="error"]{
+        border: 2px solid darkred !important;
+        font-size: 14px;
+    }
+    
+    .msg, .msg-name, .msg-email, .msg-tema{
+        color: darkred;
+        font-size: 18px;
+        display: none;
+        margin-top: -5px;
+    }
+    
+    .error-1{
+        color: darkred;
+        white-space: pre-line;
+        border: 2px solid darkred !important;
+    } 
+    
+}

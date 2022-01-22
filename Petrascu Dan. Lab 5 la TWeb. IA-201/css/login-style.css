@@ -1,0 +1,265 @@
+@media (min-width: 421px){
+    .loginDiv{
+        padding-left: 1%;
+        padding-right: 1%;
+        padding-top: 0.1%;
+        padding-bottom: 0.1%;
+        border-radius: 15px;
+        margin: 0px auto;
+        width: 600px;
+        font-size: 20px;
+        align-content: center;
+    }
+    
+    .LoginTitle{
+        margin-bottom: 20px;
+        color:firebrick;
+        font-size: 50px;
+    }
+    
+    .login-form input[type=password] {
+        padding: 8px;
+        border: 2px solid darkblue;
+        width: 290px;
+    }
+    
+    .login-form input[type=text] {
+        padding: 8px;
+        border: 2px solid darkblue;
+        width: 290px;
+    }
+     
+    .login-form input[type=submit]{
+        padding: 8px;
+        width: 200px; 
+        background-color:darkred;
+        margin-left: 50px;
+        color: whitesmoke;
+        margin-top: 15px;
+    }
+    
+    .login-form input[type=submit]:hover{
+        background-color: brown;
+    }
+    
+    .mainText{
+        line-height: 0.0;
+        margin-top: 40px;
+    }
+    
+    .log-reg-container{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .to-reg{
+        color: darkred;
+        text-decoration: none;
+    }
+
+    .to-reg:hover{
+        text-decoration: underline;
+        opacity: 0.80;
+    }
+    
+    .to-register{
+        margin-right: 20px;
+    }
+    
+    .toregText{
+        color: darkblue;
+        font-size: 25px;
+    }
+    
+    .login-msg{
+        color: darkred;
+        line-height: 0.0;
+        font-weight: bold;
+        text-align: center;
+        display: none;
+    }
+    .reg-msg{
+        color: green;
+        line-height: 0.0;
+        font-weight: bold;
+        text-align: center;
+    }  
+    .out-msg{
+        color: blue;
+        line-height: 0.0;
+        font-weight: bold;
+        text-align: center;
+    }  
+    
+    .error{
+        color: darkred;
+        display: block;
+        white-space: pre-line;
+    } 
+    
+    .error-1{
+        color: darkred;
+        white-space: pre-line;
+        border: 2px solid darkred !important;
+    } 
+    
+    input[class="error"]{
+        border: 2px solid darkred !important;
+    } 
+    
+    .msg-login, .msg-pass, .msg{
+        color: darkred;
+        display: none;
+        font-size: 20px;
+        line-height: 0.0;
+        margin-top: -5px;
+    }
+}
+
+@media (max-width: 420px){
+    .loginDiv{
+        padding-left: 1%;
+        padding-right: 1%;
+        padding-top: 0.1%;
+        padding-bottom: 0.1%;
+        border-radius: 15px;
+        margin: 0px auto;
+        margin-right: 5px; 
+        margin-left: 5px;
+        font-size: 20px;
+        align-content: center;
+    }
+    
+    .LoginTitle{
+        margin-bottom: 20px;
+        color:firebrick;
+        font-size: 40px;
+    }
+    
+    .login-form input[type=password] {
+        padding: 4px;
+        border: 2px solid darkred;
+        width: 150px;
+    }
+    
+    .login-form input[type=text] {
+        padding: 4px;
+        border: 2px solid darkred;
+        width: 150px;
+    }
+     
+    .login-form input[type=submit]{
+        padding: 4px;
+        width: 70px; 
+        background-color:darkred;
+        margin: auto;
+        display: block;
+        color: whitesmoke;
+    }
+    
+    .login-form input[type=submit]:hover{
+        background-color: brown;
+    }
+    
+    .mainText{
+        line-height: 0.0;
+        margin-top: 20px;
+    }
+    
+    .log-reg-container{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .to-reg{
+        color: darkred;
+        text-decoration: none;
+        font-size: 16px;
+    }
+
+    .to-reg:hover{
+        text-decoration: underline;
+        opacity: 0.80;
+    }
+    
+    .to-register{
+        margin-right: 5px;
+    }
+    
+    .toregText{
+        color: darkblue;
+        font-size: 20px;
+    }
+    
+    .login-msg{
+        color: darkred;
+        line-height: 0.0;
+        font-weight: bold;
+        text-align: center;
+        font-size: 12px;
+        margin-top: -5px;
+        display: none;
+    } 
+    
+    .reg-msg{
+        color: green;
+        line-height: 0.0;
+        font-weight: bold;
+        text-align: center;
+        font-size: 12px;
+        margin-top: -5px;
+        display: none;
+    }  
+    
+    .error{
+        color: darkred;
+        display: block;
+        white-space: pre-line;
+        font-size: 18px;
+        
+    } 
+    
+    input[class="error"]{
+        border: 2px solid darkred !important;
+        font-size: 14px;
+        padding: 4px;
+    }
+    
+    .out-msg{
+        color: blue;
+        line-height: 0.0;
+        font-weight: bold;
+        text-align: center;
+        font-size: 18px;
+        display: none;
+    }  
+    
+    .msg-login, .msg-pass, .msg{
+        color: darkred;
+        display: none;
+        font-size: 18px;
+        line-height: 0.0;
+        margin-top: -5px;
+    }
+    
+    .error-1{
+        color: darkred;
+        white-space: pre-line;
+        border: 2px solid darkred !important;
+    } 
+}
+
+
+
+
+    
+    
+    
+    
+
+     
+     
+     
+    
+     
+     
