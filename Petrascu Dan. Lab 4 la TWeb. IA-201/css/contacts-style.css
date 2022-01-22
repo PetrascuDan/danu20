@@ -1,0 +1,181 @@
+@media (min-width: 421px){
+    .contactsDiv{
+        padding-left: 1%;
+        padding-right: 1%;
+        padding-top: 0.1%;
+        padding-bottom: 0.1%;
+        border-radius: 30px;
+        margin: 0px auto;
+        width: 750px;
+        font-size: 20px;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .cont_container{
+        margin: 0 auto;
+        width: 720px; 
+    }
+
+    .ContTitle{
+        margin-top: 20px;
+        color:firebrick;
+        font-size: 50px;
+    }
+    
+    .contacts{
+        position: relative;
+    }
+    
+    .form_contacts input[type=text] {
+        padding: 8px;
+        border: 2px solid darkred;
+        width: 700px;
+    }
+    
+    .form_contacts input[type=submit]{
+        padding: 8px;
+        width: 200px; 
+        background-color:darkred;
+        margin-left: 250px;
+        margin-bottom: 10px;
+        color: whitesmoke;
+        margin-top: 10px;
+    }
+    
+    .form_contacts textarea[type=text]{
+        padding: 8px;
+        border: 2px solid darkred;
+        width: 700px;
+        height: 150px;
+        resize: none;
+    }
+    
+    .form_contacts input[type=submit]:hover{
+        background-color: brown;
+    }
+     
+    .form_contacts select{
+        padding: 8px;
+        border: 2px solid darkred;
+        width: 200px;
+    }
+    
+    .pCtext{
+        line-height: 0.0;
+        margin-top: 40px;
+    }
+    
+    .msg_success{
+        color: green;
+        line-height: 0.0;
+        margin-left: 215px;
+        font-weight: bold;
+    }
+    
+    .msg_fail{
+        color: darkred;
+        line-height: 0.0;
+        margin-left: 215px;
+        font-weight: bold;
+    } 
+    
+     .msg{
+        color: darkred;
+        line-height: 0.0;
+        font-size: 18px;
+    }
+}
+
+
+@media (max-width: 420px){
+    .contactsDiv{
+        padding-left: 1%;
+        padding-right: 1%;
+        padding-top: 0.1%;
+        padding-bottom: 0.1%;
+        border-radius: 15px;
+        margin: 0px auto;
+        margin-right: 5px; 
+        margin-left: 5px;
+        font-size: 20px;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .cont_container{
+        margin: 0 auto;
+        width: 320px; 
+    }
+
+    .ContTitle{
+        margin-top: 20px;
+        color:firebrick;
+        font-size: 40px;
+    }
+    
+    .contacts{
+        position: relative;
+    }
+    
+    .form_contacts input[type=text] {
+        padding: 4px;
+        border: 2px solid darkred;
+        width: 300px;
+    }
+    
+    .form_contacts input[type=submit]{
+        padding: 4px;
+        width: 150px; 
+        background-color:darkred;
+        margin: auto;
+        display: block;
+        color: whitesmoke;
+        margin-bottom: 10px;
+    }
+    
+    .form_contacts textarea[type=text]{
+        padding: 4px;
+        border: 2px solid darkred;
+        width: 305px;
+        height: 150px;
+        resize: none;
+    }
+    
+    .form_contacts input[type=submit]:hover{
+        background-color: brown;
+    }
+     
+    .form_contacts select{
+        padding: 4px;
+        border: 2px solid darkred;
+        width: 170px;
+    }
+    
+    .pCtext{
+        line-height: 0.0;
+        margin-top: 30px;
+    }
+    
+    .msg_success{
+        color: green;
+        line-height: 0.0;
+        font-weight: bold;
+        text-align: center;
+        font-size: 12px;
+    }
+    
+    .msg_fail{
+        color: darkred;
+        line-height: 0.0;
+        font-weight: bold;
+        text-align: center;
+        font-size: 12px;
+    } 
+    
+     .msg{
+        color: darkred;
+        line-height: 0.0;
+        font-size: 14px;
+    }
+}

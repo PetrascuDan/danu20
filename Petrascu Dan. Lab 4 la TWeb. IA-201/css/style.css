@@ -1,0 +1,157 @@
+@media (min-width: 421px){
+    .text{
+        padding-left: 1%;
+        padding-right: 1%;
+        padding-top: 0.1%;
+        padding-bottom: 0.1%;
+        border-radius: 50px;
+        margin-right:60px; 
+        margin-left:60px;
+        font-size: 24px;
+    }
+
+    .image1{
+        padding-bottom: -1%;
+        border-radius: 15px;
+        margin-right: 20px;
+        margin-bottom: 5px;
+        border: 5px solid #800000;
+        height: 430px;
+        width: 330px;
+    }
+
+.table1 {
+    width: 92%;
+    border: 1px solid: red;
+    border-spacing: 7px 5px;
+    max-width: 1350px;
+}
+
+.table2div{
+    display:none;
+}
+
+.table1 td {
+    background: whitesmoke;
+    border: 1px solid red;
+    padding: 1px;
+    width: 16%;
+    size: 20px; 
+}
+
+.table1 th{
+    background: brown;
+    border: 1px solid red;
+    padding: 1px;
+    color: whitesmoke;
+}
+
+.linkuri{
+    display: flex;
+    padding: 15px 0;
+    align-items: center;
+    width: 100%;
+    max-width: 1350px;
+    margin: 0 auto;
+    border-top: 2px solid #515369;
+}
+
+.link{
+    color: whitesmoke;
+    text-decoration: none;
+    opacity: .75;
+    margin-left: 10px;
+}
+
+.link:hover{
+    text-decoration: underline;
+    opacity: 1;
+}
+
+li{
+    color:whitesmoke;
+    opacity: .75;
+}
+
+li:hover{
+    opacity: 1;
+}
+
+    .Reference{
+        font-size: 32px;
+        color: #AE0202;
+        margin: 0.5 auto;
+    }
+
+    .Nume_poveste{
+        font-size: 48px;
+        font-family: Times New Roman;
+        color: white;
+        margin-top: 20px;
+    }
+
+    .nume_rezumat{
+        font-size: 32px;
+        color: #AE0202;
+        margin-top: -10px;
+    }
+
+tr .Temporal{
+    font-size: 22px;
+}
+
+.slider{
+    width: 350px;
+    height: 245px;
+    border: 5px solid #800000;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.slider-line{
+    width: 1050px;
+    height: 245px;
+    display: flex;
+    position: relative;
+    left: 0;
+    transition: all ease 1s;
+}
+
+.image-line{
+    width: 350px;
+    height: 245px;
+}
+
+.container_photo{
+    display: flex;
+    background: transparent;
+}
+
+.p-slide{
+    width: 1000px;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+    .scroll_buttonInfoButton{
+        max-width: 1350px;
+        width: 100%;
+        background-color: brown;
+        color: whitesmoke;
+    }
+    
+    .scroll_buttonInfoButton:hover{
+        text-decoration: underline;
+        opacity: 1;
+        background-color:darkred;
+    }
+}
+
+
+
+
+
+    
+    
+    
+    
