@@ -1,0 +1,33 @@
+@media (max-width: 420px){
+    li{
+        color:whitesmoke;
+        opacity: .75;
+        font-size: 12px;
+        margin-left: -25px;
+        margin-top: 5px;
+    }
+
+    .Title{
+        margin-top: 20px;
+        color:firebrick;
+        font-size: 15px;
+    }
+
+    .Portret{
+        border-radius: 15px;
+        border: 5px solid #800000;
+        width: 150px;
+        height: 100%;
+        margin-right: 0px;
+    }
+
+    .linkuri{
+        display: flex;
+        align-items: center;
+        width: 100%;
+        max-width: 1350px;
+        margin: 0 auto;
+        justify-content: space-between; 
+    }
+}
+    

@@ -1,0 +1,195 @@
+@media (max-width: 420px){
+    .image1{
+        border-radius: 15px;
+        border: 5px solid #800000;
+        height: 100%;
+        width: 97%;
+        margin-top: -10px;
+    }
+    
+    .text{
+        padding-left: 1%;
+        padding-right: 1%;
+        padding-top: 0.1%;
+        border-radius: 15px;
+        margin-right: 5px; 
+        margin-left: 5px;
+        font-size: 16px;
+    }
+    
+    .Nume_poveste{
+        font-size: 30px;
+        font-family: Times New Roman;
+        color: white;
+        margin-top: 20px;
+    }
+
+    .nume_rezumat{
+        font-size: 20px;
+        color: #AE0202;
+        margin-top: -10px;
+    }
+    
+    .linkuri{
+        display: flex;
+        padding: 15px 0;
+        align-items: center;
+        width: 100%;
+        max-width: 1350px;
+        margin: 0 auto;
+        border-top: 2px solid #515369;
+    }
+    
+    li{
+        color:whitesmoke;
+        opacity: .75;
+    }
+
+    li:hover{
+        opacity: 1;
+    }
+
+    
+    .link{
+        color: whitesmoke;
+        text-decoration: none;
+        opacity: .75;
+    }
+    
+
+    .link:hover{
+        text-decoration: underline;
+        opacity: 1;
+    }
+    
+    .link{
+        color:whitesmoke;
+        opacity: .75;
+        margin-left: -5px;
+    }
+
+    .i-link:hover{
+        opacity: 1;
+    }
+    
+    .Reference{
+        font-size: 20px;
+        color: #AE0202;
+        margin: 0.5 auto;
+    }
+    
+    .table2{
+        width: 100%;
+        border: 1px solid: red;
+        border-spacing: 7px 5px;
+        max-width: 1350px;
+    }
+
+    .table2 td{
+        background: whitesmoke;
+        border: 1px solid red;
+        padding: 1px;
+        width: 16%;
+        size: 20px; 
+    }
+    
+
+    .table2 th{
+        background: brown;
+        border: 1px solid red;
+        padding: 1px;
+        color: whitesmoke;
+    }
+    
+    tr .Temporal{
+        font-size: 15px;
+    }
+    
+    .table2div{
+        display: block;
+    }
+    
+    .table1div{
+        display:none;
+    }
+    
+    tr .simple-text{
+        font-size: 12px;
+    }
+    
+    
+    .slider{
+        width: 97%;
+        height: 245px;
+        border: 5px solid #800000;
+        border-radius: 15px;
+        overflow: hidden;
+        margin-top: -15px;
+    }
+
+    .slider-line{
+        width: 1050px;
+        height: 245px;
+        display: flex;
+        position: relative;
+        left: 0;
+        transition: all ease 1s;
+    }
+
+    .image-line{
+        width: 350px;
+        height: 245px;
+    }
+
+    .container_photo{
+        background: transparent;
+    }
+
+    .p-slide{
+        width: 100%;
+        margin-top: 0px;
+    }
+    .scroll_buttonInfoButton{
+        max-width: 1350px;
+        width: 100%;
+        background-color: brown;
+        color: whitesmoke;
+    }
+    
+    .scroll_buttonInfoButton:hover{
+        text-decoration: underline;
+        opacity: 1;
+        background-color:darkred;
+    }
+    
+    #InfoPers1{
+        display: none;
+    }
+    #InfoPers2{
+        display: none;
+    }
+    
+    .login{
+        color: green;
+        text-align: center;
+        font-weight: bold;
+        font-size: 15px;
+    }
+    
+    #login{
+        color: green;
+        text-align: center;
+        font-weight: bold;
+        font-size: 15px;
+        display: none;
+    }
+    
+    .time{
+        color: gold;
+        text-align: center;
+        font-weight: bold;
+        font-size: 8px;
+    }
+}
+    
+    

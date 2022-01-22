@@ -1,0 +1,172 @@
+@media (min-width: 421px){
+    .regDiv{
+        padding-left: 1%;
+        padding-right: 1%;
+        padding-top: 0.1%;
+        padding-bottom: 0.1%;
+        border-radius: 30px;
+        margin: 0px auto;
+        width: 550px;
+        font-size: 20px;
+        align-content: center;
+    }
+    
+    .register{
+        margin: 0 auto;
+        width: 520px; 
+    }
+    
+    .RegTitle{
+        margin-top: 20px;
+        color:firebrick;
+        font-size: 50px;
+    }
+    
+    .form_register input[type=password] {
+        padding: 8px;
+        border: 2px solid darkblue;
+        width: 500px;
+    }
+    
+    .form_register input[type=text] {
+        padding: 8px;
+        border: 2px solid darkblue;
+        width: 500px;
+    }
+     
+    .form_register input[type=submit]{
+        padding: 8px;
+        width: 200px; 
+        background-color:darkred;
+        margin-left: 150px;
+        margin-bottom: 15px;
+        color: whitesmoke;
+        margin-top: 10px;
+    }
+    
+    .form_register input[type=submit]:hover{
+        background-color: brown;
+    }
+    
+    .pRegtext{
+        line-height: 0.0;
+        margin-top: 40px;
+    }
+    
+    .msg, .msg-login, .msg-password, .msg-passrepeat, .msg-Email{
+        color: darkred;
+        font-size: 20px;
+        white-space: pre-line;
+        display: none;
+    }
+    
+    .error-1{
+        color: darkred;
+        white-space: pre-line;
+        border: 2px solid darkred !important;
+    } 
+    
+    .error{
+        color: darkred;
+        display: block;
+        white-space: pre-line;
+        
+    } 
+    
+    input[class="error"]{
+        border: 2px solid darkred !important;
+    } 
+}
+
+
+@media (max-width: 420px){
+     .regDiv{
+        padding-left: 1%;
+        padding-right: 1%;
+        padding-top: 0.1%;
+        padding-bottom: 0.1%;
+        border-radius: 15px;
+        margin: 0px auto;
+        margin-right: 5px; 
+        margin-left: 5px;
+        font-size: 20px;
+        align-content: center;
+    }
+    
+    .register{
+        margin: 0 auto;
+        width: 320px; 
+    }
+    
+    .RegTitle{
+        margin-top: 20px;
+        color:firebrick;
+        font-size: 40px;
+    }
+    
+    .form_register input[type=password] {
+        padding: 4px;
+        border: 2px solid darkred;
+        width: 300px;
+    }
+    
+    .form_register input[type=text] {
+        padding: 4px;
+        border: 2px solid darkred;
+        width: 300px;
+    }
+     
+    .form_register input[type=submit]{
+        padding: 4px;
+        width: 150px; 
+        background-color:darkred;
+        margin: auto;
+        display: block;
+        margin-bottom: 15px;
+        color: whitesmoke;
+        margin-top: 10px;
+    }
+    
+    .form_register input[type=submit]:hover{
+        background-color: brown;
+    }
+    
+    .pRegtext{
+        line-height: 0.0;
+        margin-top: 30px;
+    }
+    
+    .msg, .msg-login, .msg-password, .msg-passrepeat, .msg-Email{
+        color: darkred;
+        font-size: 18px;
+        display: none;
+    }
+    
+    .error{
+        color: darkred;
+        display: block;
+        white-space: pre-line;
+        font-size: 18px;
+        
+    } 
+    
+    input[class="error"]{
+        border: 2px solid darkred !important;
+        font-size: 14px;
+        padding: 4px;
+    }
+    
+    .error-1{
+        color: darkred;
+        white-space: pre-line;
+        border: 2px solid darkred !important;
+    } 
+}
+
+
+
+
+    
+    
+    
+    
